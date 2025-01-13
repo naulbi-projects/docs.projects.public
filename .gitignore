@@ -1,0 +1,15 @@
+# User-specific stuff
+.idea/
+
+*.iml
+*.ipr
+*.iws
+
+### Mac OS ###
+.DS_Store
+
+# Linux temp files
+*~
+
+# VSCode stuff
+.vscode/
